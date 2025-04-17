@@ -1,1 +1,1 @@
-# Amazon-clone
+https://gokulpvtr.github.io/Amazon-clone/
